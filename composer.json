@@ -1,0 +1,17 @@
+{
+    "name": "kukusa/apis-core",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kukusa\\ApisCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Upik Saleh",
+            "email": "upxsal@gmail.com"
+        }
+    ],
+    "require": {}
+}
