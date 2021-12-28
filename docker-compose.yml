@@ -1,0 +1,8 @@
+version: "3"
+services:
+  kukusa_core:
+    build:
+      context: .
+    image: kukusa/apis-kukusa-core
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
