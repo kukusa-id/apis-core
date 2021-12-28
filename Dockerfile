@@ -1,3 +1,3 @@
 FROM alpine:latest
 COPY image-files/ /
-COPY src/ /kukusa/
+COPY src/ /kukusa/src
